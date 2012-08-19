@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^(www.)?the.showme.be$
+RewriteRule ^(.*)$ http://www.showme.be/$1 [R=301,L]
