@@ -38,23 +38,23 @@
 						<div class="margin_items">
 							<h1><a href="illustratie.php" class="colorbutton illustrationbtn">illustratie</a></h1>
 							<section class="itembox">
-								<a href="http://www.behance.net/gallery/concrete-girls/4207639"><img src="img/300x200/2d_concrete_girls.jpg"  class="preview" />
+								<a href="http://showme.prosite.com/12522/589408/gallery/concrete-girls"><img src="img/300x200/2d_concrete_girls.jpg"  class="preview" />
 								<h2>concrete girls</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://www.behance.net/gallery/4gamers-contest-chief-edition/4208067"><img src="img/300x200/2d_4gamers_chief.jpg"  class="preview" />
+								<a href="http://showme.prosite.com/12522/589433/gallery/4gamers-contest-chief-edition"><img src="img/300x200/2d_4gamers_chief.jpg"  class="preview" />
 								<h2>4gamers contest: chief edition</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://www.behance.net/gallery/4gamers-contest-ubisoft-edition/2609185"><img src="img/300x200/2d_4gamers_ubisoft.jpg"  class="preview" />
+								<a href="http://showme.prosite.com/12522/326864/gallery/4gamers-contest-ubisoft-edition"><img src="img/300x200/2d_4gamers_ubisoft.jpg"  class="preview" />
 								<h2>4gamers contest: ubisoft edition</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://www.behance.net/gallery/4gamers-contest/2609143"><img src="img/300x200/2d_4gamers_crysis.jpg" class="preview" />
+								<a href="http://showme.prosite.com/12522/326857/gallery/4gamers-contest"><img src="img/300x200/2d_4gamers_crysis.jpg" class="preview" />
 								<h2>4gamers contest: first edition</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://www.behance.net/gallery/dimitri-wouters-logotype/1818713"><img src="img/300x200/2d_dimitriwouters.jpg"  class="preview" />
+								<a href="http://showme.prosite.com/12522/179308/gallery/dimitri-wouters-logotype"><img src="img/300x200/2d_dimitriwouters.jpg"  class="preview" />
 								<h2>dimitri wouters branding</h2></a>
 							</section>
 							<section class="itembox">
@@ -62,15 +62,15 @@
 								<h2>eco marketing consult logotype</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://www.behance.net/gallery/v-d-consulting-logotype/1813715"><img src="img/300x200/2d_vdconsulting.jpg"  class="preview" />
+								<a href="http://showme.prosite.com/12522/178338/gallery/v-d-consulting-logotype"><img src="img/300x200/2d_vdconsulting.jpg"  class="preview" />
 								<h2>v&d logotype</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://www.behance.net/gallery/vennincx-identity/1813483"><img src="img/300x200/2d_vennincxverzekeringen.jpg"  class="preview" />
+								<a href="http://showme.prosite.com/12522/178310/gallery/vennincx-identity"><img src="img/300x200/2d_vennincxverzekeringen.jpg"  class="preview" />
 								<h2>vennincx verzekeringen identity</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://www.behance.net/gallery/showme-identity/1819047"><img src="img/300x200/2d_showme.jpg"  class="preview" />
+								<a href="http://showme.prosite.com/12522/179376/gallery/showme-identity"><img src="img/300x200/2d_showme.jpg"  class="preview" />
 								<h2>showme identity</h2></a>
 							</section>
 							<section class="itembox">
