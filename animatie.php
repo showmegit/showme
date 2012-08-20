@@ -29,7 +29,7 @@
 			<div id="bg">
 				<div id="container">
 					<header>
-						<img src="img/showme_logo.gif" id="showmelogo" />
+						<a href="index.php"><img src="img/showme_logo.gif" id="showmelogo" /></a>
 						<nav id="breadcrumb">
 							<a href="index.php">home</a> / animatie
 						</nav>
