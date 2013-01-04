@@ -38,18 +38,18 @@
 						<div class="margin_items">
 							<section class="itembox web">
 								<h1><a href="webdesign.php" class="colorbutton webbtn indexbtn">webdesign</a></h1>
-								<a href="webdesign.php"><img src="img/300x200/web_moretus.jpg" class="preview" />
-								<h2>moretus</h2></a>
+								<a href="webdesign.php"><img src="img/300x200/web_royaldelivery.jpg" class="preview" />
+								<h2>royal delivery</h2></a>
 							</section>
 							<section class="itembox visualisation">
 								<h1><a href="3d_visualisatie.php" class="colorbutton visualisationbtn indexbtn">3d visualisatie</a></h1>
-								<a href="3d_visualisatie.php"><img src="img/300x200/3d_moretus_huizen3.jpg"  class="preview" />
-								<h2>de molenbosschen huizen</h2></a>
+								<a href="3d_visualisatie.php"><img src="img/300x200/3d_djrebelandfriends.jpg"  class="preview" />
+								<h2>dj rebel and friends</h2></a>
 							</section>
 							<section class="itembox illustration">
 								<h1><a href="illustratie.php" class="colorbutton illustrationbtn indexbtn">illustratie</a></h1>
-								<a href="illustratie.php"><img src="img/300x200/2d_concrete_girls.jpg"  class="preview" />
-								<h2>concrete girls</h2></a>
+								<a href="illustratie.php"><img src="img/300x200/2d_bondscoachgerets.jpg"  class="preview" />
+								<h2>bondscoach gerets</h2></a>
 							</section>
 							<section class="itembox motion">
 								<h1><a href="animatie.php" class="colorbutton motionbtn indexbtn">animatie</a></h1>

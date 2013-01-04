@@ -38,6 +38,10 @@
 						<div class="margin_items">
 							<h1><a href="illustratie.php" class="colorbutton illustrationbtn">illustratie</a></h1>
 							<section class="itembox">
+								<a href="http://showme.prosite.com/12522/984569/gallery/bondscoach-gerets-illustration"><img src="img/300x200/2d_bondscoachgerets.jpg"  class="preview" />
+								<h2>bondscoach gerets</h2></a>
+							</section>
+							<section class="itembox">
 								<a href="http://showme.prosite.com/12522/589408/gallery/concrete-girls"><img src="img/300x200/2d_concrete_girls.jpg"  class="preview" />
 								<h2>concrete girls</h2></a>
 							</section>

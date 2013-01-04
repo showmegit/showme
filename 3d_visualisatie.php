@@ -38,6 +38,18 @@
 						<div class="margin_items">
 							<h1><a href="3d_visualisatie.php" class="colorbutton visualisationbtn">3d visualisatie</a></h1>
 							<section class="itembox">
+								<a href="http://showme.prosite.com/12522/935732/gallery/dj-rebel-friends-3d-cover-artwork"><img src="img/300x200/3d_djrebelandfriends.jpg"  class="preview" />
+								<h2>dj rebel and friends</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://showme.prosite.com/12522/984588/gallery/historium-3d-floor-plans"><img src="img/300x200/3d_historium.jpg"  class="preview" />
+								<h2>historium 3d floor plans</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://showme.prosite.com/12522/984645/gallery/3d-gecko"><img src="img/300x200/3d_gecko.jpg"  class="preview" />
+								<h2>3d gecko</h2></a>
+							</section>
+							<section class="itembox">
 								<a href="http://www.behance.net/gallery/moretus-3d-visualisation-(revision)/4868989"><img src="img/300x200/3d_moretus_huizen3.jpg"  class="preview" />
 								<h2>de molenbosschen huizen (revisie)</h2></a>
 							</section>
