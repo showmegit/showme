@@ -42,6 +42,14 @@
 								<h2>bondscoach gerets</h2></a>
 							</section>
 							<section class="itembox">
+								<a href="http://showme.prosite.com/12522/984902/gallery/profood-logotype"><img src="img/300x200/2d_profood.jpg"  class="preview" />
+								<h2>profood logotype</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://showme.prosite.com/12522/984926/gallery/music-matters-branding"><img src="img/300x200/2d_musicmatters.jpg"  class="preview" />
+								<h2>music matters logotype</h2></a>
+							</section>
+							<section class="itembox">
 								<a href="http://showme.prosite.com/12522/589408/gallery/concrete-girls"><img src="img/300x200/2d_concrete_girls.jpg"  class="preview" />
 								<h2>concrete girls</h2></a>
 							</section>
