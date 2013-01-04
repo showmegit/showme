@@ -38,28 +38,36 @@
 						<div class="margin_items">
 							<h1><a href="animatie.php" class="colorbutton motionbtn">animatie</a></h1>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/293372/gallery/sgnn-promo-clip"><img src="img/300x200/4d_sgnn.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/3d-Augmented-Reality-Dixan/6526915"><img src="img/300x200/3d_4d_dixan.jpg"  class="preview" />
+								<h2>dixan augmented reality</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/sgnn-promo-clip/2420970"><img src="img/300x200/4d_sgnn.jpg"  class="preview" />
 								<h2>dimitri wouters sgnn</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/293395/gallery/sgnn-promo-clip-making-of"><img src="img/300x200/4d_sgnn_makingof.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/sgnn-promo-clip-making-of/2420990"><img src="img/300x200/4d_sgnn_makingof.jpg"  class="preview" />
 								<h2>dimitri wouters sgnn making of</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179369/gallery/4gamers-motion-ident"><img src="img/300x200/4d_4gamers.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/4gamers-motion-ident/1818925"><img src="img/300x200/4d_4gamers.jpg"  class="preview" />
 								<h2>4gamers</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179227/gallery/precura-3d-ident"><img src="img/300x200/3d_4d_precura.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/precura-3d-ident/1818391"><img src="img/300x200/3d_4d_precura.jpg"  class="preview" />
 								<h2>precura</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179175/gallery/laurent-wery-3d-ident"><img src="img/300x200/3d_4d_laurentwery.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/laurent-wery-3d-ident/1818259"><img src="img/300x200/3d_4d_laurentwery.jpg" class="preview" />
 								<h2>laurent wery</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179340/gallery/dimitri-wouters-aftermovie"><img src="img/300x200/4d_australia.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/dimitri-wouters-aftermovie/1818745"><img src="img/300x200/4d_australia.jpg"  class="preview" />
 								<h2>dimitri wouters aftermovie</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/aquaconcept-3d-animation/1818425"><img src="img/300x200/3d_4d_aquaconcept.jpg"  class="preview" />
+								<h2>aquaconcept</h2></a>
 							</section>
 							<div class="clear"></div>
 						</div>

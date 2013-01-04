@@ -38,56 +38,73 @@
 						<div class="margin_items">
 							<h1><a href="illustratie.php" class="colorbutton illustrationbtn">illustratie</a></h1>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/984569/gallery/bondscoach-gerets-illustration"><img src="img/300x200/2d_bondscoachgerets.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/Bondscoach-Gerets-Illustration/6518153"><img src="img/300x200/2d_bondscoachgerets.jpg"  class="preview" />
 								<h2>bondscoach gerets</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/984902/gallery/profood-logotype"><img src="img/300x200/2d_profood.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/Profood-Logotype/6519595"><img src="img/300x200/2d_profood.jpg"  class="preview" />
 								<h2>profood logotype</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/984926/gallery/music-matters-branding"><img src="img/300x200/2d_musicmatters.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/Music-Matters-Branding/6519731"><img src="img/300x200/2d_musicmatters.jpg"  class="preview" />
 								<h2>music matters logotype</h2></a>
 							</section>
+					
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/589408/gallery/concrete-girls"><img src="img/300x200/2d_concrete_girls.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/Moretus-Car-Wrap/6527787"><img src="img/300x200/2d_moretus_carwrap.jpg"  class="preview" />
+								<h2>moretus car wrap</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/concrete-girls/4207639"><img src="img/300x200/2d_concrete_girls.jpg"  class="preview" />
 								<h2>concrete girls</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/589433/gallery/4gamers-contest-chief-edition"><img src="img/300x200/2d_4gamers_chief.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/4gamers-contest-chief-edition/4208067"><img src="img/300x200/2d_4gamers_chief.jpg"  class="preview" />
 								<h2>4gamers contest: chief edition</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/326864/gallery/4gamers-contest-ubisoft-edition"><img src="img/300x200/2d_4gamers_ubisoft.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/4gamers-contest-ubisoft-edition/2609185"><img src="img/300x200/2d_4gamers_ubisoft.jpg"  class="preview" />
 								<h2>4gamers contest: ubisoft edition</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/326857/gallery/4gamers-contest"><img src="img/300x200/2d_4gamers_crysis.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/4gamers-contest/2609143"><img src="img/300x200/2d_4gamers_crysis.jpg" class="preview" />
 								<h2>4gamers contest: first edition</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179308/gallery/dimitri-wouters-logotype"><img src="img/300x200/2d_dimitriwouters.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/dimitri-wouters-branding/1818713"><img src="img/300x200/2d_dimitriwouters.jpg"  class="preview" />
 								<h2>dimitri wouters branding</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179284/gallery/eco-marketing-consult-logotype"><img src="img/300x200/2d_ecomarketingconsult.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/eco-marketing-consult-logotype/1818677"><img src="img/300x200/2d_ecomarketingconsult.jpg" class="preview" />
 								<h2>eco marketing consult logotype</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/178338/gallery/v-d-consulting-logotype"><img src="img/300x200/2d_vdconsulting.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/v-d-consulting-logotype/1813715"><img src="img/300x200/2d_vdconsulting.jpg"  class="preview" />
 								<h2>v&d logotype</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/178310/gallery/vennincx-identity"><img src="img/300x200/2d_vennincxverzekeringen.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/vennincx-identity/1813483"><img src="img/300x200/2d_vennincxverzekeringen.jpg"  class="preview" />
 								<h2>vennincx verzekeringen identity</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179376/gallery/showme-identity"><img src="img/300x200/2d_showme.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/showme-identity/1819047"><img src="img/300x200/2d_showme.jpg"  class="preview" />
 								<h2>showme identity</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179695/gallery/texture-composition"><img src="img/300x200/2d_texture_leaf.jpg"  class="preview" />
-								<h2>texture series</h2></a>
+								<a href="http://www.behance.net/gallery/unity-logotype/1819139"><img src="img/300x200/2d_unity.jpg"  class="preview" />
+								<h2>unity logotype</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/itworkz-logotype/1819089"><img src="img/300x200/2d_itworkz.jpg"  class="preview" />
+								<h2>itworkz logotype</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/texture-composition/1821015"><img src="img/300x200/2d_texture_leaf.jpg"  class="preview" />
+								<h2>texture compositions</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/Abstract-Designs/6528389"><img src="img/300x200/2d_abstract.jpg"  class="preview" />
+								<h2>abstract designs</h2></a>
 							</section>
 							<div class="clear"></div>
 						</div>

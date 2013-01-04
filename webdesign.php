@@ -38,59 +38,71 @@
 						<div class="margin_items">
 							<h1><a href="webdesign.php" class="colorbutton webbtn">webdesign</a></h1>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/984840/gallery/profood-webshop"><img src="img/300x200/web_profood.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/Profood-Webshop/6519525"><img src="img/300x200/web_profood.jpg" class="preview" />
 								<h2>profood webshop</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/984816/gallery/united-telecom"><img src="img/300x200/web_unitedtelecom.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/United-Telecom/6519329"><img src="img/300x200/web_unitedtelecom.jpg" class="preview" />
 								<h2>united telecom</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/984809/gallery/harley-davidson-endless-summer"><img src="img/300x200/web_endlesssummer.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/Harley-Davidson-Endless-Summer/6519283"><img src="img/300x200/web_endlesssummer.jpg" class="preview" />
 								<h2>harley davidson endless summer</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/984799/gallery/groen-werkt-facebook-application"><img src="img/300x200/web_groenwerkt.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/Groen-Werkt-Facebook-Application/6519169"><img src="img/300x200/web_groenwerkt.jpg" class="preview" />
 								<h2>groen werkt facebook application</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/984486/gallery/royal-delivery-website"><img src="img/300x200/web_royaldelivery.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/Royal-Delivery-website/6517631"><img src="img/300x200/web_royaldelivery.jpg" class="preview" />
 								<h2>royal delivery</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/300170/gallery/moretusgroep"><img src="img/300x200/web_moretus.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/moretusgroep/2454635"><img src="img/300x200/web_moretus.jpg" class="preview" />
 								<h2>moretus</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/300103/gallery/lounge-avenue-contest"><img src="img/300x200/web_loungeavenue.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/Dux-Events-Landing-Page/6527113"><img src="img/300x200/web_duxevents.jpg"  class="preview" />
+								<h2>dux events landing page</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/Standaard-Boekhandel-Website/6527535"><img src="img/300x200/web_standaardboekhandel.jpg"  class="preview" />
+								<h2>standaard boekhandel</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/lounge-avenue-contest/2454231"><img src="img/300x200/web_loungeavenue.jpg"  class="preview" />
 								<h2>lounge avenue</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179506/gallery/redbull-mobile-contest"><img src="img/300x200/web_redbull.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/redbull-mobile-contest/1819799"><img src="img/300x200/web_redbull.jpg"  class="preview" />
 								<h2>red bull mobile</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179222/gallery/vmma-topspots-tool"><img src="img/300x200/web_topspots.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/vmma-topspots-tool/1818343"><img src="img/300x200/web_topspots.jpg" class="preview" />
 								<h2>vmma topspots</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179192/gallery/lufthansa-take-off-game"><img src="img/300x200/web_lufthansa.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/lufthansa-take-off-game/1818293"><img src="img/300x200/web_lufthansa.jpg"  class="preview" />
 								<h2>lufthansa takeoff game</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/178327/gallery/abc-drinks-website"><img src="img/300x200/web_abcdrinks.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/abc-drinks-website/1813671"><img src="img/300x200/web_abcdrinks.jpg"  class="preview" />
 								<h2>abc drinks</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/178320/gallery/service-point-turnhout-splash"><img src="img/300x200/web_servicepointturnhout.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/service-point-turnhout-splash/1813609"><img src="img/300x200/web_servicepointturnhout.jpg" class="preview" />
 								<h2>service point turnhout</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/178290/gallery/vennincx-website"><img src="img/300x200/web_vennincx.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/vennincx-website/1813381"><img src="img/300x200/web_vennincx.jpg"  class="preview" />
 								<h2>vennincx verzekeringen</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179262/gallery/g2-architectural-graphics"><img src="img/300x200/web_g2.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/showme-the-website/1813131"><img src="img/300x200/web_showme_flash.jpg"  class="preview" />
+								<h2>showme the flash website</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/G2-Architectural-Graphics/1818519"><img src="img/300x200/web_g2.jpg"  class="preview" />
 								<h2>g2 architectural graphics</h2></a>
 							</section>
 							<div class="clear"></div>

@@ -53,8 +53,8 @@
 							</section>
 							<section class="itembox motion">
 								<h1><a href="animatie.php" class="colorbutton motionbtn indexbtn">animatie</a></h1>
-								<a href="animatie.php"><img src="img/300x200/4d_sgnn.jpg"  class="preview" />
-								<h2>dimitri wouters sgnn</h2></a>
+								<a href="animatie.php"><img src="img/300x200/3d_4d_dixan.jpg"  class="preview" />
+								<h2>dixan augmented reality</h2></a>
 							</section>
 						</div>
 						<div class="side">

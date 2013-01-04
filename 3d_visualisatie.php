@@ -38,15 +38,15 @@
 						<div class="margin_items">
 							<h1><a href="3d_visualisatie.php" class="colorbutton visualisationbtn">3d visualisatie</a></h1>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/935732/gallery/dj-rebel-friends-3d-cover-artwork"><img src="img/300x200/3d_djrebelandfriends.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/DJ-Rebel-Friends-3d-Cover-Artwork/6238769"><img src="img/300x200/3d_djrebelandfriends.jpg"  class="preview" />
 								<h2>dj rebel and friends</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/984588/gallery/historium-3d-floor-plans"><img src="img/300x200/3d_historium.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/Historium-3d-Floor-Plans/6518183"><img src="img/300x200/3d_historium.jpg"  class="preview" />
 								<h2>historium 3d floor plans</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/984645/gallery/3d-gecko"><img src="img/300x200/3d_gecko.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/3d-Gecko/6518317"><img src="img/300x200/3d_gecko.jpg"  class="preview" />
 								<h2>3d gecko</h2></a>
 							</section>
 							<section class="itembox">
@@ -54,39 +54,43 @@
 								<h2>de molenbosschen huizen (revisie)</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/265553/gallery/moretus-3d-renders"><img src="img/300x200/3d_moretus_huizen.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/3d-Retro-Hairstyles/6527865"><img src="img/300x200/3d_retro_hairstyles.jpg"  class="preview" />
+								<h2>retro hairstyles</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/moretus-3d-visualisation/2251276"><img src="img/300x200/3d_moretus_huizen.jpg"  class="preview" />
 								<h2>de molenbosschen huizen</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179349/gallery/moretus-3d-renders"><img src="img/300x200/3d_moretus_appartementen.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/moretus-3d-visualisation/1818787"><img src="img/300x200/3d_moretus_appartementen.jpg"  class="preview" />
 								<h2>de molenbosschen appartementen</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179227/gallery/precura-3d-ident"><img src="img/300x200/3d_4d_precura.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/precura-3d-ident/1818391"><img src="img/300x200/3d_4d_precura.jpg"  class="preview" />
 								<h2>precura</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179175/gallery/laurent-wery-3d-ident"><img src="img/300x200/3d_4d_laurentwery.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/laurent-wery-3d-ident/1818259"><img src="img/300x200/3d_4d_laurentwery.jpg" class="preview" />
 								<h2>laurent wery</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179231/gallery/aquaconcept-3d-animation"><img src="img/300x200/3d_4d_aquaconcept.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/aquaconcept-3d-animation/1818425"><img src="img/300x200/3d_4d_aquaconcept.jpg"  class="preview" />
 								<h2>aquaconcept</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179258/gallery/champagne-ad"><img src="img/300x200/3d_campagne.jpg" class="preview" />
+								<a href="http://www.behance.net/gallery/champagne-ad/1818475"><img src="img/300x200/3d_campagne.jpg" class="preview" />
 								<h2>champagne ad</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179275/gallery/beetosee-packaging"><img src="img/300x200/3d_etos.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/beetosee-packaging/1818579"><img src="img/300x200/3d_etos.jpg"  class="preview" />
 								<h2>etos premiums</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179264/gallery/logitech-z5450"><img src="img/300x200/3d_logitech.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/logitech-z5450/1818555"><img src="img/300x200/3d_logitech.jpg"  class="preview" />
 								<h2>logitech z5450</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="http://showme.prosite.com/12522/179353/gallery/nikon-coolpix-3d-model"><img src="img/300x200/3d_nikon.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/nikon-coolpix-3d-model/1818815"><img src="img/300x200/3d_nikon.jpg"  class="preview" />
 								<h2>nikon coolpix</h2></a>
 							</section>
 							<div class="clear"></div>
