@@ -75,6 +75,10 @@
 								<h2>dimitri wouters branding</h2></a>
 							</section>
 							<section class="itembox">
+								<a href="http://www.behance.net/gallery/Allegria-Print-Work/6525849"><img src="img/300x200/2d_allegria.jpg"  class="preview" />
+								<h2>allegria print work</h2></a>
+							</section>
+							<section class="itembox">
 								<a href="http://www.behance.net/gallery/eco-marketing-consult-logotype/1818677"><img src="img/300x200/2d_ecomarketingconsult.jpg" class="preview" />
 								<h2>eco marketing consult logotype</h2></a>
 							</section>
