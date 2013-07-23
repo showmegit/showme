@@ -36,7 +36,7 @@
 					</header>
 					<section id="items">
 						<div class="margin_items">
-							<h1><a href="webdesign.php" class="colorbutton webbtn wide">webdesign & webdevelopment</a></h1>
+							<h1><a href="webdesign.php" class="colorbutton webbtn wide">webdesign & programmatie</a></h1>
 							<section class="itembox">
 								<a href="http://www.behance.net/gallery/Philadelphia-Apero-Time/9968715"><img src="img/300x200/web_philadelphia.jpg" class="preview" />
 								<h2>philadelphia apero time</h2></a>
