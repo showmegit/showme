@@ -38,8 +38,8 @@
 						<div class="margin_items">
 							<section class="itembox web">
 								<h1><a href="webdesign.php" class="colorbutton webbtn indexbtn">webdesign</a></h1>
-								<a href="webdesign.php"><img src="img/300x200/web_royaldelivery.jpg" class="preview" />
-								<h2>royal delivery</h2></a>
+								<a href="webdesign.php"><img src="img/300x200/web_playstation.jpg" class="preview" />
+								<h2>playstation the ticket tournament</h2></a>
 							</section>
 							<section class="itembox visualisation">
 								<h1><a href="3d_visualisatie.php" class="colorbutton visualisationbtn indexbtn">3d visualisatie</a></h1>
@@ -53,8 +53,8 @@
 							</section>
 							<section class="itembox motion">
 								<h1><a href="animatie.php" class="colorbutton motionbtn indexbtn">animatie</a></h1>
-								<a href="animatie.php"><img src="img/300x200/3d_4d_dixan.jpg"  class="preview" />
-								<h2>dixan augmented reality</h2></a>
+								<a href="animatie.php"><img src="img/300x200/4d_ethicon.jpg"  class="preview" />
+								<h2>ethicon animation</h2></a>
 							</section>
 						</div>
 						<div class="side">

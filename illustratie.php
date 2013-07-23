@@ -38,6 +38,10 @@
 						<div class="margin_items">
 							<h1><a href="illustratie.php" class="colorbutton illustrationbtn">illustratie</a></h1>
 							<section class="itembox">
+								<a href="http://www.behance.net/gallery/Melting-it-down/6549225"><img src="img/300x200/2d_melting.jpg"  class="preview" />
+								<h2>melting it down</h2></a>
+							</section>
+							<section class="itembox">
 								<a href="http://www.behance.net/gallery/Bondscoach-Gerets-Illustration/6518153"><img src="img/300x200/2d_bondscoachgerets.jpg"  class="preview" />
 								<h2>bondscoach gerets</h2></a>
 							</section>

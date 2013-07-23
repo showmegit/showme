@@ -36,7 +36,19 @@
 					</header>
 					<section id="items">
 						<div class="margin_items">
-							<h1><a href="webdesign.php" class="colorbutton webbtn">webdesign</a></h1>
+							<h1><a href="webdesign.php" class="colorbutton webbtn wide">webdesign & webdevelopment</a></h1>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/Philadelphia-Apero-Time/9968715"><img src="img/300x200/web_philadelphia.jpg" class="preview" />
+								<h2>philadelphia apero time</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/Playstation-The-Ticket-Tournament/9470371"><img src="img/300x200/web_playstation.jpg" class="preview" />
+								<h2>playstation the ticket tournament</h2></a>
+							</section>
+							<section class="itembox">
+								<a href="http://www.behance.net/gallery/De-Makelaardij/9470173"><img src="img/300x200/web_demakelaardij.jpg" class="preview" />
+								<h2>de makelaardij</h2></a>
+							</section>
 							<section class="itembox">
 								<a href="http://www.behance.net/gallery/Profood-Webshop/6519525"><img src="img/300x200/web_profood.jpg" class="preview" />
 								<h2>profood webshop</h2></a>

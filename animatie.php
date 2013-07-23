@@ -38,6 +38,10 @@
 						<div class="margin_items">
 							<h1><a href="animatie.php" class="colorbutton motionbtn">animatie</a></h1>
 							<section class="itembox">
+								<a href="http://www.behance.net/gallery/Ethicon-Animation/9969455"><img src="img/300x200/4d_ethicon.jpg"  class="preview" />
+								<h2>ethicon animation</h2></a>
+							</section>
+							<section class="itembox">
 								<a href="http://www.behance.net/gallery/3d-Augmented-Reality-Dixan/6526915"><img src="img/300x200/3d_4d_dixan.jpg"  class="preview" />
 								<h2>dixan augmented reality</h2></a>
 							</section>
