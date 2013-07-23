@@ -50,7 +50,7 @@
 								<h2>3d gecko</h2></a>
 							</section>
 							<section class="itembox">
-								<a href="animatie.php"><img src="img/300x200/3d_4d_dixan.jpg"  class="preview" />
+								<a href="http://www.behance.net/gallery/3d-Augmented-Reality-Dixan/6526915"><img src="img/300x200/3d_4d_dixan.jpg"  class="preview" />
 								<h2>dixan augmented reality</h2></a>
 							</section>
 							<section class="itembox">
